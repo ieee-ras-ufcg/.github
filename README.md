@@ -12,31 +12,27 @@ Founded on July 10, 2017, the Student Chapter of Robotics and Automation of UFCG
 <div>
   
 ## Projects Repositories 
+<div alight>
 <details>
   <summary>Academy Translate</summary>
-  Tem como objetivo traduzir materiais educativos sobre robótica para a língua portuguesa. 
+  It aims to translate educational materials on robotics into Portuguese.
     <ul>
-      <li>Python For Evebody</li>
-      <li>Robot Academy - Peter Corke</li>
-      <li>A Gentle Introduction to ROS - Jason O'Kane</li>
-      <li>Neural Networks And Deep Learning</li>
+      <li><a href="https://github.com/ras-ufcg/py4e">Python For Evebody</a></li>
+      <li><a href="https://github.com/ras-ufcg/CorkeVideos">Robot Academy - Peter Corke</a></li>
+      <li><a href="https://github.com/ras-ufcg/agitROS">A Gentle Introduction to ROS - Jason O'Kane</a></li>
+      <li><a href="https://github.com/ras-ufcg/NeuralNetworksAndDeepLearning">Neural Networks And Deep Learning</a></li>
     </ul>
 </details>
-  
+ 
 <details>
-  <summary>Rasie</summary>
+  <summary><a href="https://github.com/ras-ufcg/Moab">Rasie</a></summary>
+  It aims to implement a visual servo system that allows balancing a ball on a Stewart platform.
 </details>
   
 <details>
-  <summary>Rasbóticas</summary>
+  <summary><a href="https://github.com/lateixeiraa/Rasboticas">Rasbóticas</a></summary>
+  It aims to encourage the participation and development of skills related to robotics and automation of girls, in order to encourage female performance in predominantly male areas. 
 </details>
-
-[Rasie]: (Moab/)
-[Python For Evebody]: (py4e/)
-[Robot Academy - Peter Corke]: (CorkeVideos/)
-[A Gentle Introduction to ROS - Jason O'Kane]: (agitROS/)
-[Neural Networks And Deep Learning]: (NeuralNetworksAndDeepLearning/)
-[Rasbóticas]: (https://github.com/lateixeiraa/Rasboticas)
   
 <div aling="center">
   <a href="https://github.com/ras-ufcg">
