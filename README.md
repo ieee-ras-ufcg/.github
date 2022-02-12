@@ -1,8 +1,7 @@
-#
-<img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://edu.ieee.org/br-ufcgras/wp-content/uploads/sites/243/GIF-LOGO-IEEE-RAS-UFCG.gif">
+<img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://edu.ieee.org/br-ufcgras/wp-content/uploads/sites/243/GIF-LOGO-IEEE-RAS-UFCG.gif">
 
 # I'm IEEE RAS UFCG
-Founded on July 10, 2017, the Student Chapter of Robotics and Automation of UFCG is among the 21 student chapters of RAS of the IEEE Brasil Council and counts on the collaboration of professionals and students to lead the development of knowledge and skills in the area to the society.
+> Founded on July 10, 2017, the Student Chapter of Robotics and Automation of UFCG is among the 21 student chapters of RAS of the IEEE Brasil Council and counts on the collaboration of professionals and students to lead the development of knowledge and skills in the area to the society.
 
 <div>
   <a href="https://www.youtube.com/channel/UCzWsUFpyDV-yyYf5zDWo-pA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -17,12 +16,12 @@ Founded on July 10, 2017, the Student Chapter of Robotics and Automation of UFCG
 [![my email](https://img.shields.io/static/v1?style=flat&logo=gmail&labelColor=fafafa&label=Email&message=ras@ee.ufcg.edu.brr&color=red)](mailto:ras@ee.ufcg.edu.br)
 [![my linkedin](https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=0072b1&labelColor=fafafa&label=LinkedIn&message=IEEE%20RAS%20UFCG&color=0072b1)](https://www.linkedin.com/company/ieee-ras-ufcg/) 
 
- 
+  
 ## Projects Repositories 
 <div>
 <details>
   <summary>Academy Translate</summary>
-  It aims to translate educational materials on robotics into Portuguese.
+  <blockquote> It aims to translate educational materials on robotics into Portuguese.</blockquote>
     <ul>
       <li><a href="https://github.com/ras-ufcg/py4e">Python For Evebody</a></li>
       <li><a href="https://github.com/ras-ufcg/CorkeVideos">Robot Academy - Peter Corke</a></li>
@@ -33,12 +32,12 @@ Founded on July 10, 2017, the Student Chapter of Robotics and Automation of UFCG
  
 <details>
   <summary><a href="https://github.com/ras-ufcg/Moab">Rasie</a></summary>
-  It aims to implement a visual servo system that allows balancing a ball on a Stewart platform.
+  <blockquote> It aims to implement a visual servo system that allows balancing a ball on a Stewart platform.</blockquote> 
 </details>
   
 <details>
   <summary><a href="https://github.com/lateixeiraa/Rasboticas">Rasbóticas</a></summary>
-  It aims to encourage the participation and development of skills related to robotics and automation of girls, in order to encourage female performance in predominantly male areas. 
+  <blockquote> It aims to encourage the participation and development of skills related to robotics and automation of girls, in order to encourage female performance in predominantly male areas. </blockquote> 
 </details>
 
 ##
