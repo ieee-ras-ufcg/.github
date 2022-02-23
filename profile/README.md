@@ -1,21 +1,28 @@
-<img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://edu.ieee.org/br-ufcgras/wp-content/uploads/sites/243/GIF-LOGO-IEEE-RAS-UFCG.gif">
+## Hello, We're [IEEE RAS UFCG](https://edu.ieee.org/br-ufcgras/ras/)
 
-# I'm IEEE RAS UFCG
-> Founded on July 10, 2017, the Student Chapter of Robotics and Automation of UFCG is among the 21 student chapters of RAS of the IEEE Brasil Council and counts on the collaboration of professionals and students to lead the development of knowledge and skills in the area to the society.
+[![my email](https://img.shields.io/static/v1?style=flat&logo=gmail&labelColor=fafafa&label=Email&message=ras@ee.ufcg.edu.brr&color=red)](mailto:ras@ee.ufcg.edu.br)
+[![my linkedin](https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=0072b1&labelColor=fafafa&label=LinkedIn&message=IEEE%20RAS%20UFCG&color=0072b1)](https://www.linkedin.com/company/ieee-ras-ufcg/) 
+<img src="https://edu.ieee.org/br-ufcgras/wp-content/uploads/sites/243/b2.jpg">
 
+<!-- <img src="https://github.com/ras-ufcg/.github/tree/main/img/banner.jpg">
+-->
+> *Somos entusiastas, amantes e pesquisadores da robótica, buscando incluí-la no cotidiano das pessoas.*
+
+Fundado em 10 de julho de 2017, o Capítulo Estudantil de Robótica e Automação da UFCG está entre os 21 capítulos estudantis RAS no Conselho Brasil do IEEE e conta com a colaboração de profissionais e estudantes para levar o desenvolvimento de conhecimentos e habilidades da área para seus membros e para a sociedade.
+  
 <div>
   <a href="https://www.youtube.com/channel/UCzWsUFpyDV-yyYf5zDWo-pA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/sbc.rasufcg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/invite/rasufcg#3209" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- <!--
-  <a href = "mailto:ras@ee.ufcg.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/company/ieee-ras-ufcg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- -->
 <div>
 
-[![my email](https://img.shields.io/static/v1?style=flat&logo=gmail&labelColor=fafafa&label=Email&message=ras@ee.ufcg.edu.brr&color=red)](mailto:ras@ee.ufcg.edu.br)
-[![my linkedin](https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=0072b1&labelColor=fafafa&label=LinkedIn&message=IEEE%20RAS%20UFCG&color=0072b1)](https://www.linkedin.com/company/ieee-ras-ufcg/) 
+## Sobre a RAS
+<div>
+  <p>Os objetivos da IEEE Robotics and Automation Society (RAS) são de caráter científico, literário e educacional. A Sociedade se esforça para o avanço da teoria e prática da engenharia e ciência da robótica e automação e das artes e ciências aliadas, e para a manutenção de altos padrões profissionais entre seus membros, tudo em consonância com a Constituição e os Estatutos do IEEE e com especial atenção a esses objetivos dentro do campo de interesse da sociedade.</p>
 
+  <p>A RAS se esforça para promover a inovação, a educação e a pesquisa fundamental e aplicada em robótica e automação. A robótica concentra-se em sistemas que incorporam sensores e atuadores que operam de forma autônoma ou semiautônoma em cooperação com humanos. A pesquisa em robótica enfatiza a inteligência e a adaptabilidade para lidar com ambientes não estruturados. A pesquisa de automação enfatiza eficiência, produtividade, qualidade e confiabilidade, concentrando-se em sistemas que operam de forma autônoma, geralmente em ambientes estruturados por longos períodos, e na estruturação explícita de tais ambientes.</p>
+   <img align="center" height=100 src="https://cdn-images-1.medium.com/max/616/1*cv93ZT9hmzED5fstLYNimQ@2x.png">
+</div>
   
 ## Projects Repositories 
 <div>
@@ -41,13 +48,7 @@
 </details>
 
 ##
-### 📊 My Stats
-<div align="center">
-  <a href="https://github.com/ras-ufcg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ras-ufcg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ras-ufcg&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-</div>
-
+<!-- 
 ### 📚 Languages and Libraries
 <div>
   </a> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> 
@@ -67,4 +68,4 @@
   </a> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
   </a> <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
 </div>
-
+-->
