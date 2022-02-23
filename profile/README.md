@@ -49,8 +49,8 @@ Founded on July 10, 2017, the Student Chapter of Robotics and Automation of UFCG
   
 ## Activities
   <details>
-  <summary>Minicursos</summary>
-  <blockquote> It aims to translate educational materials on robotics into Portuguese.</blockquote>
+  <summary>Courses</summary>
+  <blockquote> It aims to teach and present about a specific subject or tool.</blockquote>
     <ul>
       <li><a href="https://github.com/ras-ufcg/Minicurso-de-Git-GitHub">Git e GitHub</a></li>
       <li><a href="https://github.com/ras-ufcg/Minicursos-de-Arduino">Arduino</a></li>
