@@ -6,9 +6,9 @@
 
 <!-- <img src="https://github.com/ras-ufcg/.github/tree/main/img/banner.jpg">
 -->
-> *Somos entusiastas, amantes e pesquisadores da robótica, buscando incluí-la no cotidiano das pessoas.*
+> *We are robotics enthusiasts, lovers and researchers, seeking to include it in people's daily lives.*
 
-Fundado em 10 de julho de 2017, o Capítulo Estudantil de Robótica e Automação da UFCG está entre os 21 capítulos estudantis RAS no Conselho Brasil do IEEE e conta com a colaboração de profissionais e estudantes para levar o desenvolvimento de conhecimentos e habilidades da área para seus membros e para a sociedade.
+Founded on July 10, 2017, the Student Chapter of Robotics and Automation of UFCG is among the 21 RAS student chapters in the IEEE Brazil Council and counts on the collaboration of professionals and students to take the development of knowledge and skills in the area to their members and for society. 
   
 <div>
   <a href="https://www.youtube.com/channel/UCzWsUFpyDV-yyYf5zDWo-pA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -16,12 +16,12 @@ Fundado em 10 de julho de 2017, o Capítulo Estudantil de Robótica e Automaçã
  <a href="https://discord.com/invite/rasufcg#3209" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <div>
 
-## Sobre a RAS
+## About RAS
 <div>
-  <p>Os objetivos da IEEE Robotics and Automation Society (RAS) são de caráter científico, literário e educacional. A Sociedade se esforça para o avanço da teoria e prática da engenharia e ciência da robótica e automação e das artes e ciências aliadas, e para a manutenção de altos padrões profissionais entre seus membros, tudo em consonância com a Constituição e os Estatutos do IEEE e com especial atenção a esses objetivos dentro do campo de interesse da sociedade.</p>
+<p>The IEEE Robotics and Automation Society's objectives are scientific, literary and educational in character. The Society strives for the advancement of the theory and practice of robotics and automation engineering and science and of the allied arts and sciences, and for the maintenance of high professional standards among its members, all in consonance with the Constitution and Bylaws of the IEEE and with special attention to such aims within the Field of Interest of the Society.</p>
 
-  <p>A RAS se esforça para promover a inovação, a educação e a pesquisa fundamental e aplicada em robótica e automação. A robótica concentra-se em sistemas que incorporam sensores e atuadores que operam de forma autônoma ou semiautônoma em cooperação com humanos. A pesquisa em robótica enfatiza a inteligência e a adaptabilidade para lidar com ambientes não estruturados. A pesquisa de automação enfatiza eficiência, produtividade, qualidade e confiabilidade, concentrando-se em sistemas que operam de forma autônoma, geralmente em ambientes estruturados por longos períodos, e na estruturação explícita de tais ambientes.</p>
-   <img align="center" height=100 src="https://cdn-images-1.medium.com/max/616/1*cv93ZT9hmzED5fstLYNimQ@2x.png">
+<p>RAS strives to advance innovation, education, and fundamental and applied research in robotics and automation. Robotics focuses on systems incorporating sensors and actuators that operate autonomously or semi-autonomously in cooperation with humans. Robotics research emphasizes intelligence and adaptability to cope with unstructured environments. Automation research emphasizes efficiency, productivity, quality, and reliability, focusing on systems that operate autonomously, often in structured environments over extended periods, and on the explicit structuring of such environments.</p>
+  <!--  <img align="center" height=100 src="https://cdn-images-1.medium.com/max/616/1*cv93ZT9hmzED5fstLYNimQ@2x.png"> -->
 </div>
   
 ## Projects Repositories 
@@ -45,6 +45,16 @@ Fundado em 10 de julho de 2017, o Capítulo Estudantil de Robótica e Automaçã
 <details>
   <summary><a href="https://github.com/lateixeiraa/Rasboticas">Rasbóticas</a></summary>
   <blockquote> It aims to encourage the participation and development of skills related to robotics and automation of girls, in order to encourage female performance in predominantly male areas. </blockquote> 
+</details>
+  
+## Activities
+  <details>
+  <summary>Minicursos</summary>
+  <blockquote> It aims to translate educational materials on robotics into Portuguese.</blockquote>
+    <ul>
+      <li><a href="https://github.com/ras-ufcg/Minicurso-de-Git-GitHub">Git e GitHub</a></li>
+      <li><a href="https://github.com/ras-ufcg/Minicursos-de-Arduino">Arduino</a></li>
+    </ul>
 </details>
 
 ##
