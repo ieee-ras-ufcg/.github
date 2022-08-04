@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="README.md">Português</a>
+  <span>English</span> |
+</p>
+
 ## Hello, We're [IEEE RAS UFCG](https://edu.ieee.org/br-ufcgras/ras/)
 
 [![my email](https://img.shields.io/static/v1?style=flat&logo=gmail&labelColor=fafafa&label=Email&message=ras@ee.ufcg.edu.brr&color=red)](mailto:ras@ee.ufcg.edu.br)
