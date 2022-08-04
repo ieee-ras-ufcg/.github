@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="README.md">Português</a>
-  <span>English</span> |
+  <a href="README.md">Português</a> |
+  <span>English</span> 
 </p>
 
 ## Hello, We're [IEEE RAS UFCG](https://edu.ieee.org/br-ufcgras/ras/)
