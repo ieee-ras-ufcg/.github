@@ -8,7 +8,7 @@
 [![my email](https://img.shields.io/static/v1?style=flat&logo=gmail&labelColor=fafafa&label=Email&message=ras@ee.ufcg.edu.br&color=red)](mailto:ras@ee.ufcg.edu.br)
 [![my linkedin](https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=0072b1&labelColor=fafafa&label=LinkedIn&message=IEEE%20RAS%20UFCG&color=0072b1)](https://www.linkedin.com/company/ieee-ras-ufcg/) 
 
-<img src="https://drive.google.com/file/d/1H8qUK32RLOmHzYlfspZ0FYWTeDrp5JRc/view?usp=sharing">
+<img src="https://drive.google.com/file/d/1H8qUK32RLOmHzYlfspZ0FYWTeDrp5JRc">
 
 > *We are robotics enthusiasts, lovers and researchers, seeking to include it in people's daily lives.*
 
@@ -26,7 +26,8 @@ Founded on July 10, 2017, the Student Chapter of Robotics and Automation of UFCG
 
 <p>RAS strives to advance innovation, education, and fundamental and applied research in robotics and automation. Robotics focuses on systems incorporating sensors and actuators that operate autonomously or semi-autonomously in cooperation with humans. Robotics research emphasizes intelligence and adaptability to cope with unstructured environments. Automation research emphasizes efficiency, productivity, quality, and reliability, focusing on systems that operate autonomously, often in structured environments over extended periods, and on the explicit structuring of such environments.</p>
 </div>
-  
+
+<!-- 
 ## Projects Repositories 
 <div>
 <details>
@@ -40,7 +41,6 @@ Founded on July 10, 2017, the Student Chapter of Robotics and Automation of UFCG
     </ul>
 </details>
 
- <!-- 
 <details>
   <summary><a href="https://github.com/ras-ufcg/Moab">Rasie</a></summary>
   <blockquote> It aims to implement a visual servo system that allows balancing a ball on a Stewart platform.</blockquote> 
