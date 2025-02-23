@@ -8,7 +8,7 @@
 [![my email](https://img.shields.io/static/v1?style=flat&logo=gmail&labelColor=fafafa&label=Email&message=ras@ee.ufcg.edu.br&color=red)](mailto:ras@ee.ufcg.edu.br)
 [![my linkedin](https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=0072b1&labelColor=fafafa&label=LinkedIn&message=IEEE%20RAS%20UFCG&color=0072b1)](https://www.linkedin.com/company/ieee-ras-ufcg/) 
 
-![image](https://github.com/user-attachments/assets/4d46b06a-0c56-4e36-8423-24b6d561dc50)
+![Picsart_25-02-23_19-04-21-765](https://github.com/user-attachments/assets/70ddb1fb-9ba5-4d54-9330-2463aed077f8)
 
 > *We are robotics enthusiasts, lovers and researchers, seeking to include it in people's daily lives.*
 
